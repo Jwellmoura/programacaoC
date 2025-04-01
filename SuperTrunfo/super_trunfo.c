@@ -3,7 +3,7 @@
 int main(){
 
     int NPT, populacao;
-    char estado[2], codigo[3], cidade[50];
+    char estado[5], codigo[5], cidade[50];
     float PIB, km;
     
     // Primeira carta
